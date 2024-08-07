@@ -32,7 +32,11 @@ Throughout this challenge, I will focus on the following areas:
 
 - Each folder is organized with relevant notes, code, and practice exercises.
 - Check out the specific technology folders for detailed learning paths and examples.
-- Feel free to explore, learn, and contribute!
+- The learning schedule and content may vary based on prior experience and individual progress.
+
+> **Disclaimer:** I am not an absolute beginner. With nearly 9 months of field experience as a Data Engineer, this challenge is tailored to build on existing knowledge and may progress at a different pace compared to someone just starting in the field.
+
+Feel free to explore, learn, and contribute!
 
 ## License
 
