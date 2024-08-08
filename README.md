@@ -22,13 +22,10 @@ Throughout this challenge, I will focus on the following areas:
 
 ## Daily Progress
 
-### Day 1 (7 Aug 2024)
-- **Add GitHub basics and handwritten notes**: Started by learning GitHub fundamentals and documenting them through handwritten notes.
-- **Add Python notes, study, and practice chapters 1-6**: Organized Python notes into three folders covering chapters 1-19 and completed learning and practice exercises for chapters 1-6.
-
-### Day 2 (8 Aug 2024)
-- **Completed Chapter 6 - Lists**: Focused on understanding lists, practiced all related questions, and applied the concepts thoroughly.
-- **Learned and applied list comprehension**: Explored list comprehension and used it effectively in various practice exercises.
+| **Date**       | **Tasks Completed**                                                                                                                                                      |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **7 Aug 2024** | <small>- **Add GitHub basics and handwritten notes**: Started by learning GitHub fundamentals and documenting them through handwritten notes.<br>- **Add Python notes, study, and practice chapters 1-6**: Organized Python notes into three folders covering chapters 1-19 and completed learning and practice exercises for chapters 1-6.</small> |
+| **8 Aug 2024** | <small>- **Completed Chapter 6 - Lists**: Focused on understanding lists, practiced all related questions, and applied the concepts thoroughly.<br>- **Learned and applied list comprehension**: Explored list comprehension and used it effectively in various practice exercises.</small> |
 
 > **Note:** Python notes were sourced from [Code and Debug](https://www.codeanddebug.in).
 
