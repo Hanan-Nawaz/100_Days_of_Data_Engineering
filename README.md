@@ -26,6 +26,10 @@ Throughout this challenge, I will focus on the following areas:
 - **Add GitHub basics and handwritten notes**: Started by learning GitHub fundamentals and documenting them through handwritten notes.
 - **Add Python notes, study, and practice chapters 1-6**: Organized Python notes into three folders covering chapters 1-19 and completed learning and practice exercises for chapters 1-6.
 
+### Day 2 (8 Aug 2024)
+- **Completed Chapter 6 - Lists**: Focused on understanding lists, practiced all related questions, and applied the concepts thoroughly.
+- **Learned and applied list comprehension**: Explored list comprehension and used it effectively in various practice exercises.
+
 > **Note:** Python notes were sourced from [Code and Debug](https://www.codeanddebug.in).
 
 ## How to Use This Repository
