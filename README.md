@@ -28,6 +28,7 @@ Throughout this challenge, I will focus on the following areas:
 | **Day 2**      | **8 Aug 2024** | <small>- **Chapter 7 - Lists**: Studied lists, practiced questions.<br>- **List comprehension**: Learned and applied it in exercises.</small> |
 | **Day 3** | **9 Aug 2024** | <small>- **Chapter 8 - Tuples**: Studied tuples, understood their properties, and practiced exercises.<br>- **Immutability**: Focused on the concept of immutability and how it applies to tuples.</small> |
 | **Day 4** | **10 Aug 2024** | <small>- **Chapter 9 - Dicitionary**: Studied Dicitionary, understood their properties, and practiced exercises. |
+| **Day 5** | **11 Aug 2024** | <small>- **Chapter 10 - Strings**: Studied Strings, understood their properties, and practiced exercises. |
 
 > **Note:** Python notes were sourced from [Code and Debug](https://www.codeanddebug.in).
 
